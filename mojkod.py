@@ -1,3 +1,4 @@
 print("hello Git")
 print("Nova izmjena")
-Ovo je nova grana
+print ("Ovo je moja grana")
+print("smederevo")
